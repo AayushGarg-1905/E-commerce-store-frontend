@@ -5,7 +5,7 @@ import { ErrorElement } from "./components/common";
 
 const router = createBrowserRouter([
   {
-    path:'https://clever-paprenjak-895cff.netlify.app',
+    path:'/',
     element:<HomeLayout/>,
     errorElement:<Error/>,
     children:[
@@ -54,8 +54,7 @@ const router = createBrowserRouter([
     path:'/register',
     element:<Register/>,
     errorElement:<Error/>,
-  }
-  
+  },
 ])
 
 const App = () => {
