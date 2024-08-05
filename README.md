@@ -1,1 +1,1 @@
-## Deployed Site: https://clever-paprenjak-895cff.netlify.app
+## Deployed Site: https://home-decor-1905.netlify.app
